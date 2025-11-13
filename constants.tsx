@@ -123,8 +123,8 @@ export const SERVICES_DATA: Service[] = [
         title: 'CCTV Configuration',
         shortDescription: 'Professional installation and repair of security camera systems for homes and businesses.',
        
-        imageUrl: 'images/cctv-setup.jpg',
-        bannerUrl: 'https://images.unsplash.com/photo-1618374514332-53645e755034?q=80&w=1920',
+        imageUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=800',
+        bannerUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1920',
         details: {
             description: "Secure your property with our reliable and high-definition CCTV solutions. We offer setup, configuration, and maintenance.",
             longDescription: "We specialize in designing and implementing surveillance systems tailored to your specific security needs. Our expertise covers both modern IP networks and traditional analog HD systems, ensuring you get the best performance and value. We are proficient with leading brands like Hikvision and Dahua.",
@@ -154,7 +154,7 @@ export const SERVICES_DATA: Service[] = [
         shortDescription: 'Expert setup, optimization, and security for your home and office network infrastructure.',
         
         imageUrl: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800',
-        bannerUrl: 'https://images.unsplash.com/photo-1611033198586-3211756544a8?q=80&w=1920',
+        bannerUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1920',
         details: {
             description: "We design, deploy, and manage robust networking solutions to ensure seamless connectivity and security.",
             longDescription: "A reliable network is the backbone of any modern home or office. We provide end-to-end networking services, from optimizing your home WiFi for better coverage to setting up structured cabling and server cabinets for your business.",
