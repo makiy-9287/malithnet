@@ -65,26 +65,26 @@ export const QuoteIcon = ({ className }: { className?: string }) => (
 export const CONTACT_INFO = {
     name: "Malith Lakshan",
     phone: "+94741907061",
-    email: "contact@solotech.example.com",
+    email: "dm_lakshan@yahoo.com",
     whatsappLink: "https://wa.me/94741907061",
-    location: "Serving Colombo and surrounding areas",
+    
 };
 
 export const TESTIMONIALS_DATA: Testimonial[] = [
     {
         quote: "SoloTech Solution transformed our office network. The process was seamless, professional, and the results exceeded our expectations. Highly recommended!",
-        name: "John Doe",
-        company: "CEO, Innovate Inc."
+        name: "Ramesh Ishanka",
+        company: "Private company."
     },
     {
         quote: "My laptop was unusably slow. Malith diagnosed the issue quickly and had it running faster than when it was new. The service was fast and affordable.",
-        name: "Jane Smith",
+        name: "Anushka deshan",
         company: "Freelance Designer"
     },
     {
         quote: "The new CCTV system gives us incredible peace of mind. The installation was clean, and the team provided excellent training on how to use it.",
-        name: "Alex Johnson",
-        company: "Homeowner"
+        name: "Samith Madushan",
+        company: "Samith Stores"
     }
 ];
 
@@ -93,7 +93,7 @@ export const SERVICES_DATA: Service[] = [
         id: 'pc-laptop',
         title: 'PC & Laptop Services',
         shortDescription: 'Comprehensive hardware and software solutions to keep your devices running at peak performance.',
-        icon: <PcIcon className="w-12 h-12 text-cyan-500" />,
+       
         imageUrl: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?q=80&w=800',
         bannerUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1920',
         details: {
@@ -123,7 +123,7 @@ export const SERVICES_DATA: Service[] = [
         id: 'cctv',
         title: 'CCTV Configuration',
         shortDescription: 'Professional installation and repair of security camera systems for homes and businesses.',
-        icon: <CctvIcon className="w-12 h-12 text-cyan-500" />,
+       
         imageUrl: 'https://images.unsplash.com/photo-1588631154331-b56a12405a64?q=80&w=800',
         bannerUrl: 'https://images.unsplash.com/photo-1618374514332-53645e755034?q=80&w=1920',
         details: {
@@ -153,9 +153,9 @@ export const SERVICES_DATA: Service[] = [
         id: 'networking',
         title: 'Networking Services',
         shortDescription: 'Expert setup, optimization, and security for your home and office network infrastructure.',
-        icon: <NetworkIcon className="w-12 h-12 text-cyan-500" />,
-        imageUrl: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800',
-        bannerUrl: 'https://images.unsplash.com/photo-1611033198586-3211756544a8?q=80&w=1920',
+       
+        imageUrl: 'https://images.unsplash.com/photo-1588631154331-b56a12405a64?q=80&w=800',
+        bannerUrl: 'https://images.unsplash.com/photo-1618374514332-53645e755034?q=80&w=1920',
         details: {
             description: "We design, deploy, and manage robust networking solutions to ensure seamless connectivity and security.",
             longDescription: "A reliable network is the backbone of any modern home or office. We provide end-to-end networking services, from optimizing your home WiFi for better coverage to setting up structured cabling and server cabinets for your business.",
