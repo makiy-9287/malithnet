@@ -124,8 +124,8 @@ export const SERVICES_DATA: Service[] = [
         title: 'CCTV Configuration',
         shortDescription: 'Professional installation and repair of security camera systems for homes and businesses.',
        
-        imageUrl: 'https://images.unsplash.com/photo-1588631154331-b56a12405a64?q=80&w=800',
-        bannerUrl: 'https://images.unsplash.com/photo-1618374514332-53645e755034?q=80&w=1920',
+        imageUrl: 'https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?q=80&w=800',
+        bannerUrl: 'https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?q=80&w=1920',
         details: {
             description: "Secure your property with our reliable and high-definition CCTV solutions. We offer setup, configuration, and maintenance.",
             longDescription: "We specialize in designing and implementing surveillance systems tailored to your specific security needs. Our expertise covers both modern IP networks and traditional analog HD systems, ensuring you get the best performance and value. We are proficient with leading brands like Hikvision and Dahua.",
