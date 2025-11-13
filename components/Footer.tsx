@@ -39,7 +39,7 @@ const Footer: React.FC = () => {
                 <hr className="my-6 border-slate-200 sm:mx-auto dark:border-slate-700 lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-slate-500 sm:text-center dark:text-slate-400">
-                        © {new Date().getFullYear()} Solo Tech Solution. All Rights Reserved.
+                        © {new Date().getFullYear()} Malith Lakshan. All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                         {/* Placeholder Social Icons */}
