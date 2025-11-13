@@ -64,27 +64,26 @@ export const QuoteIcon = ({ className }: { className?: string }) => (
 
 export const CONTACT_INFO = {
     name: "Malith Lakshan",
-    phone: "+94741907061",
-    email: "contact@solotech.example.com",
+    email: "dm_lakshan@yahoo.com",
     whatsappLink: "https://wa.me/94741907061",
-    location: "Serving Colombo and surrounding areas",
+   
 };
 
 export const TESTIMONIALS_DATA: Testimonial[] = [
     {
         quote: "SoloTech Solution transformed our office network. The process was seamless, professional, and the results exceeded our expectations. Highly recommended!",
-        name: "John Doe",
-        company: "CEO, Innovate Inc."
+        name: "Ramesh Ishanka",
+        company: "Private company."
     },
     {
         quote: "My laptop was unusably slow. Malith diagnosed the issue quickly and had it running faster than when it was new. The service was fast and affordable.",
-        name: "Jane Smith",
+        name: "Anushka deshan",
         company: "Freelance Designer"
     },
     {
         quote: "The new CCTV system gives us incredible peace of mind. The installation was clean, and the team provided excellent training on how to use it.",
-        name: "Alex Johnson",
-        company: "Homeowner"
+        name: "Samith Madushan",
+        company: "Samith Stores"
     }
 ];
 
