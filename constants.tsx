@@ -92,7 +92,7 @@ export const SERVICES_DATA: Service[] = [
         id: 'pc-laptop',
         title: 'PC & Laptop Services',
         shortDescription: 'Comprehensive hardware and software solutions to keep your devices running at peak performance.',
-        icon: <PcIcon className="w-12 h-12 text-cyan-500" />,
+       
         imageUrl: 'https://images.unsplash.com/photo-1593640408182-31c70c8268f5?q=80&w=800',
         bannerUrl: 'https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1920',
         details: {
@@ -122,8 +122,8 @@ export const SERVICES_DATA: Service[] = [
         id: 'cctv',
         title: 'CCTV Configuration',
         shortDescription: 'Professional installation and repair of security camera systems for homes and businesses.',
-        icon: <CctvIcon className="w-12 h-12 text-cyan-500" />,
-        imageUrl: 'https://images.unsplash.com/photo-1588631154331-b56a12405a64?q=80&w=800',
+       
+        imageUrl: 'images/cctv-setup.jpg',
         bannerUrl: 'https://images.unsplash.com/photo-1618374514332-53645e755034?q=80&w=1920',
         details: {
             description: "Secure your property with our reliable and high-definition CCTV solutions. We offer setup, configuration, and maintenance.",
@@ -152,7 +152,7 @@ export const SERVICES_DATA: Service[] = [
         id: 'networking',
         title: 'Networking Services',
         shortDescription: 'Expert setup, optimization, and security for your home and office network infrastructure.',
-        icon: <NetworkIcon className="w-12 h-12 text-cyan-500" />,
+        
         imageUrl: 'https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?q=80&w=800',
         bannerUrl: 'https://images.unsplash.com/photo-1611033198586-3211756544a8?q=80&w=1920',
         details: {
